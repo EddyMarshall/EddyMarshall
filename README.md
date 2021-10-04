@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there 👋
+
+### Welcome to my domain.
+
+I am Eddy. Edward Marshall for long. I am a software engineer with a passion for creating accessible education with diverse teams for diverse populations. 
+
+I'm currently most likely working on a Nashville hot chicken sandwich with some spicy aioli or a sushi deluxe dinner. Between bites and moist towellette usages, I'm also building a handful of websites for artists in the New York City area. 
+
+
+![IMG_1247](https://user-images.githubusercontent.com/78100214/135873655-9d98e020-efc3-4a90-b3ac-a5a95242f8a8.JPG)
 
 <!--
 **EddyMarshall/EddyMarshall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
