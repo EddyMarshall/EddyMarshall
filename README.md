@@ -13,7 +13,7 @@ I am comfortable working in: React | JavaScript | Redux | HTML | CSS | Ruby | Ru
 
 Before becoming a programmer, I studied music education at Berklee College of music. I graduated magna cum laude in 2015 and moved to New York City to become a musician and a guitar teacher. As a teacher, I was always reflecting upon lessons past and considering how they could be improved upon. In 2020, seemingly small disconnects between students and teachers were thrown into sharp relief when all teaching was moved to a remote classroom and it was time to make a change to my teaching style. I threw everything I had at these students and observed what worked, but there was always at least one thing that I thought I could improve. I constantly found myself wishing there was "an app for that." Turned out, there could be, I just had to be the one to create it. Thus, a software enginneer was born.
 
-Come connect with me on [Linkedin](https://www.linkedin.com/in/edward-marshall-092ba6b9/), email me at [epmarsha2@gmail.com](%20epmarsha2@gmail.com) or come to one of my [shows](eddymarshallmusic.com) and lets hang out!
+Come connect with me on [Linkedin](https://www.linkedin.com/in/edward-marshall-092ba6b9/), email me at [epmarsha2@gmail.com](mailto:epmarsha2@gmail.com) or come to one of my [shows](https://eddymarshallmusic.com) and lets hang out!
 
 
 <!--
